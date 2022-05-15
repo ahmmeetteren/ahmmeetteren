@@ -19,8 +19,8 @@
 
 <h3>My GitHub Stats :chart_with_upwards_trend:</h3>
 <div class="row">
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tayfundagci&show_icons=true&theme=radical&locale=en&layout=compact" alt="tayfundagci" width="40%" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tayfundagci&show_icons=true&theme=dark&locale=en" alt="tayfundagci" width="45%" /></p> 
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmmeetteren&show_icons=true&theme=radical&locale=en&layout=compact" alt="ahmmeetteren" width="40%" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmmeetteren&show_icons=true&theme=dark&locale=en" alt="ahmmeetteren" width="45%" /></p> 
   
 
 
@@ -29,7 +29,7 @@
   
 <h3>Profile Visits</h3>
   
-![visitors](https://komarev.com/ghpvc/?username=tayfundagci&color=blue)
+![visitors](https://komarev.com/ghpvc/?username=ahmmeetteren&color=blue)
 
 
 
