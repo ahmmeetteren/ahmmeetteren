@@ -1,5 +1,5 @@
 # Hi there, my name is Ahmet Eren 👋
-## Someone who wants to be a FullStack developer.
+## Someone who wants to be a Frontend developer.
 
 <div>
 <h3 align="left">Contact me:</h3>
