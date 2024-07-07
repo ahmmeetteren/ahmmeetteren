@@ -1,5 +1,4 @@
-# Hi there, my name is Ahmet Eren 👋
-## Someone who wants to be a Fullstack developer.
+
 
 <div>
 <h3 align="left">Contact me:</h3>
